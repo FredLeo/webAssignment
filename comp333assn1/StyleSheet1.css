@@ -1,0 +1,174 @@
+﻿/*StyleSheet
+ Student ID: ll245
+ Name: Fred
+ Comp333 Assignment 1*/
+body {
+    background-color: #FFFFFF;
+    font-family: Consolas;
+}
+
+#main {
+    background-color: #E0E0E0;
+    width: 768px;
+    margin: auto;
+    margin-top: 20px;
+    min-height: 550px;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    margin-bottom: -20px;
+}
+
+#btnLogin {
+    float: right;
+    margin-right: 10px;
+}
+
+#ipblogin {
+    margin-left: 330px;
+}
+
+#divLogin {
+    width: 350px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+#lbTime {
+    float: right;
+}
+
+.textInput {
+    background-color: #E0E0E0;
+    border: solid 1px black;
+    margin-left: 5px;
+}
+
+#IpPass {
+    margin-left: 9px;
+}
+
+#placeholder {
+    height: 20px;
+}
+
+#btnLogout {
+    display: none;
+    float: right;
+}
+
+#lbName {
+    float: left;
+    text-decoration: underline;
+}
+
+.fleft {
+    float: left;
+}
+
+.fright {
+    float: right;
+}
+
+.RM {
+    text-align: center;
+    width: 100px;
+}
+
+.RMM {
+    text-align: center;
+    color: red;
+    width: 100px;
+}
+
+.RMl {
+    text-align: center;
+    width: 120px;
+    float: left;
+}
+
+.DivAnul {
+    text-align: center;
+    width: 120px;
+    float: left;
+    margin-left: 30px;
+}
+
+.DivCurr {
+    text-align: center;
+    width: 120px;
+    float: left;
+    margin-left: 30px;
+}
+
+.RMMl {
+    text-align: center;
+    color: red;
+    width: 120px;
+    float: left;
+}
+
+.txtLeft {
+    text-align: left;
+    text-align: left;
+}
+
+#divDetail {
+    border: solid 1px black;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#txtNote {
+    border: solid 1px black;
+    background-color: #E0E0E0;
+}
+
+
+.hold {
+    height: 20px;
+}
+
+.hidd {
+    visibility: hidden;
+}
+
+#btnAdd {
+    float: right;
+}
+
+.lbtitle {
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#divInfo {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#btnRemove {
+    float: right;
+    margin-right: 30px;
+}
+
+#btnSave {
+    float: right;
+    margin-right: 30px;
+}
+
+#btnEdit {
+    float: right;
+    margin-right: 30px;
+}
+
+#thT {
+    width: 200px;
+}

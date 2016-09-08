@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<!--
+Student ID: ll245
+Name: Li Lai
+Comp333 Assignment 1
+-->
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Stock Tracker</title>
+    <link type="text/css" rel="stylesheet" href="StyleSheet1.css" />
+    <script src="StockTrackerJsFile.js"></script>
+</head>
+<body onload="GetDate()">
+    <div id="main">
+        <h1>Stock Tracker</h1>
+        <input id="btnLogin" type="button" onclick="btnLogin()" value="LOGIN" />
+        <input id="btnLogout" type="button" onclick="btnLogout()" value="LOGOUT" />
+        <br />
+        <hr />
+        <label id="lbTime"> </label>
+        <br />
+        <div id="divInfo"> </div>
+        <div id="divDetail" onload="infoDisapear()"> </div>
+        <div id="divLogin"> </div>
+    </div>
+</body>
+</html>
