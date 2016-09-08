@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Assignment 3 explore NZ</title>
+		<meta name="viewport" content="initial-scale=1.0">
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="css/exploreNZstyle.css"/>
+		<script src="//code.jquery.com/jquery-1.10.2.js"></script>
+		<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyBB7AsVRBgwzns7pkpTfrzlnba9V2TAr4I"></script>
+		<script type="text/javascript" src="javascript/exploreNZjs.js"></script>
+	</head>
+	<body>
+		<div id="manu">
+			<form action="Javascript:geocode()">
+				Which town would you like to explore?
+				<br>
+				<input id="place" type="text" name="place">
+				<br>
+				<input type="submit" value="Submit">
+			</form>
+
+			<div>
+				<label>Towns Viewed:</label>
+				<br>
+				<div id="towns"> </div>
+			</div>
+
+			<form action="Javascript:search()">
+				Select place of interest
+				<br>
+				<input id="interest" type="text" name="interest">
+				<br>
+				<input type="submit" value="Submit">
+			</form>
+
+			<div id="results"> </div>
+			<div id="attribution"> </div>
+			<div id="debug"> </div>
+		</div>
+		<div id="map"> </div>
+
+	</body>
+</html>

@@ -1,0 +1,92 @@
+[27-May-2016 21:18:11] -36.8484597
+[27-May-2016 21:18:11] 174.76333150000005
+[27-May-2016 21:18:11] cafe
+[27-May-2016 21:18:11] cafe
+[27-May-2016 21:18:13] location=-33.8670522,151.1957362&radius=5000&type=restaurant&name=cruise&
+[27-May-2016 21:19:17] -36.8484597
+[27-May-2016 21:19:17] 174.76333150000005
+[27-May-2016 21:19:17] cafe
+[27-May-2016 21:19:17] cafe
+[27-May-2016 21:19:18] location=-33.8670522,151.1957362&radius=5000&type=restaurant&name=cruise&
+[27-May-2016 21:28:04] -36.8484597
+[27-May-2016 21:28:04] 174.76333150000005
+[27-May-2016 21:28:04] cafe
+[27-May-2016 21:28:04] cafe
+[27-May-2016 21:28:05] location=-36.8484597,174.76333150000005&radius=2000&type=cafe&
+[27-May-2016 21:29:02] -36.8484597
+[27-May-2016 21:29:02] 174.76333150000005
+[27-May-2016 21:29:02] cafe
+[27-May-2016 21:29:02] cafe
+[27-May-2016 21:29:03] location=-36.8484597,174.76333150000005&radius=2000&type=cafe&
+[27-May-2016 21:29:30] -36.8484597
+[27-May-2016 21:29:30] 174.76333150000005
+[27-May-2016 21:29:30] cafe
+[27-May-2016 21:29:30] cafe
+[27-May-2016 21:29:30] location=-36.8484597,174.76333150000005&radius=2000&type=cafe&
+[27-May-2016 21:30:18] -37.7870012
+[27-May-2016 21:30:18] 175.27925300000004
+[27-May-2016 21:30:18] cafe
+[27-May-2016 21:30:18] cafe
+[27-May-2016 21:30:19] location=-37.7870012,175.27925300000004&radius=2000&type=cafe&
+[27-May-2016 21:37:50] -36.8484597
+[27-May-2016 21:37:50] 174.76333150000005
+[27-May-2016 21:37:50] cafe
+[27-May-2016 21:37:50] cafe
+[27-May-2016 21:37:51] location=-36.8484597,174.76333150000005&radius=1000&type=cafe&
+[27-May-2016 21:38:53] -37.7870012
+[27-May-2016 21:38:53] 175.27925300000004
+[27-May-2016 21:38:53] restaurant
+[27-May-2016 21:38:53] restaurant
+[27-May-2016 21:38:54] location=-37.7870012,175.27925300000004&radius=1000&type=restaurant&
+[29-May-2016 23:48:43] -37.7870012
+[29-May-2016 23:48:43] 175.27925300000004
+[29-May-2016 23:48:43] cage
+[29-May-2016 23:48:43] cage
+[29-May-2016 23:48:44] location=-37.7870012,175.27925300000004&radius=1000&type=cage&
+[29-May-2016 23:49:32] -37.7870012
+[29-May-2016 23:49:32] 175.27925300000004
+[29-May-2016 23:49:32] restaurant
+[29-May-2016 23:49:32] restaurant
+[29-May-2016 23:49:33] location=-37.7870012,175.27925300000004&radius=1000&type=restaurant&
+[30-May-2016 15:11:16] -41.2864603
+[30-May-2016 15:11:16] 174.77623600000004
+[30-May-2016 15:11:16] cafe
+[30-May-2016 15:11:16] PHP Notice:  Undefined variable: name in /home/ll245/course_html/assignment3-master/php/exploreNZphp.php on line 16
+[30-May-2016 15:11:16] 
+[30-May-2016 15:11:17] -41.2864603
+[30-May-2016 15:11:17] 174.77623600000004
+[30-May-2016 15:11:17] cafe
+[30-May-2016 15:11:17] PHP Notice:  Undefined variable: name in /home/ll245/course_html/assignment3-master/php/exploreNZphp.php on line 16
+[30-May-2016 15:11:17] 
+[30-May-2016 15:11:17] location=-41.2864603,174.77623600000004&radius=1000&type=cafe&
+[30-May-2016 15:11:17] location=-41.2864603,174.77623600000004&radius=1000&type=cafe&
+[30-May-2016 15:14:13] -41.2864603
+[30-May-2016 15:14:13] 174.77623600000004
+[30-May-2016 15:14:13] cafe
+[30-May-2016 15:14:13] PHP Notice:  Undefined variable: name in /home/ll245/course_html/assignment3-master/php/exploreNZphp.php on line 16
+[30-May-2016 15:14:13] 
+[30-May-2016 15:14:13] location=-41.2864603,174.77623600000004&radius=1000&type=cafe&
+[30-May-2016 15:45:50] -37.7870012
+[30-May-2016 15:45:50] 175.27925300000004
+[30-May-2016 15:45:50] cafe
+[30-May-2016 15:45:50] PHP Notice:  Undefined variable: name in /home/ll245/course_html/assignment3-master/php/exploreNZphp.php on line 16
+[30-May-2016 15:45:50] 
+[30-May-2016 15:45:50] location=-37.7870012,175.27925300000004&radius=1000&type=cafe&
+[30-May-2016 15:50:28] -37.7870012
+[30-May-2016 15:50:28] 175.27925300000004
+[30-May-2016 15:50:28] cafe
+[30-May-2016 15:50:28] PHP Notice:  Undefined variable: name in /home/ll245/course_html/assignment3-master/php/exploreNZphp.php on line 16
+[30-May-2016 15:50:28] 
+[30-May-2016 15:50:28] location=-37.7870012,175.27925300000004&radius=1000&type=cafe&
+[30-May-2016 15:50:33] -37.7870012
+[30-May-2016 15:50:33] 175.27925300000004
+[30-May-2016 15:50:33] restaurant
+[30-May-2016 15:50:33] PHP Notice:  Undefined variable: name in /home/ll245/course_html/assignment3-master/php/exploreNZphp.php on line 16
+[30-May-2016 15:50:33] 
+[30-May-2016 15:50:34] location=-37.7870012,175.27925300000004&radius=1000&type=restaurant&
+[30-May-2016 15:54:42] -37.7870012
+[30-May-2016 15:54:42] 175.27925300000004
+[30-May-2016 15:54:42] restaurant
+[30-May-2016 15:54:42] PHP Notice:  Undefined variable: name in /home/ll245/course_html/assignment3-master/php/exploreNZphp.php on line 16
+[30-May-2016 15:54:42] 
+[30-May-2016 15:54:43] location=-37.7870012,175.27925300000004&radius=1000&type=restaurant&
